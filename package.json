@@ -1,0 +1,22 @@
+{
+  "name": "tweetstream",
+  "version": "1.0.0",
+  "description": "Visualize tweets in real-time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronNewman1495/TweetStream.git"
+  },
+  "author": "Aaron Newman <agn9@duke.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronNewman1495/TweetStream/issues"
+  },
+  "homepage": "https://github.com/AaronNewman1495/TweetStream#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
